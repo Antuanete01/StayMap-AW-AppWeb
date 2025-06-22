@@ -134,7 +134,7 @@
           "genre": "Indie"
         }
       ],
-      "image": "https://stagingsomosperiodismo.digitalsalers.com/wp-content/uploads/2022/08/image-304.png",
+      "image": "https://i.scdn.co/image/ab676161000051746a320e6b660d07b97843b9ca",
       "description": "¡Cometa a la Deriva regresa a Lima con un concierto imperdible! La banda peruana de indie rock se presentará el 25 de julio de 2025 en Vichama Conciertos, como parte del Festival Caudal Lima 2025. Este evento reunirá a destacados exponentes del indie latinoamericano, incluyendo a Dënver (Chile), 380 (Arequipa) y Super Fuzz.",
       "date": "25 de Julio",
       "status": "Available",
@@ -209,19 +209,6 @@
           "lng": -77.08303565129496
         }
       }
-    },
-    {
-      "artistName": "cisco",
-      "date": "10 de abril",
-      "venueName": "",
-      "venueLat": 0,
-      "venueLng": 0,
-      "venueAddress": "",
-      "description": "",
-      "genre": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png",
-      "status": "",
-      "id": "paNGd3m"
     }
   ],
   "communities": [
@@ -362,16 +349,6 @@
         "LP"
       ],
       "image": "https://www.ebilet.pl/now/app/uploads/2025/03/Linkin_Park-desktop-1280x720.jpg",
-      "members": [],
-      "posts": [],
-      "description": ""
-    },
-    {
-      "name": "cisco",
-      "memberQuantity": "3k",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png",
-      "tags": [],
-      "id": 11,
       "members": [],
       "posts": [],
       "description": ""
